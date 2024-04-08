@@ -6,7 +6,7 @@ databases:
 
 services:
   - type: web
-    name: auth-api
+    name: auth-api-1
     runtime: ruby
     plan: free
     buildCommand: "./bin/render-build.sh"
