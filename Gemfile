@@ -25,7 +25,6 @@ gem "puma", ">= 5.0"
 gem 'devise'
 gem 'devise-jwt'
 
-gem 'rswag'
 gem 'jsonapi-serializer'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
